@@ -6,4 +6,4 @@
 ##### ARPU - Доход с привлеченного пользователя.
 ##### ARPPU - Доход на одного платящего пользователя.
 
-![Image alt](https://github.com/DMirzaev/E-learning/blob/main/Студенческая%20аудитория.jpeg)
+![Image alt](https://github.com/DMirzaev/My_first_bootstrap/blob/main/Основные%20метрики.png)
